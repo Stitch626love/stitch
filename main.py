@@ -1,0 +1,36 @@
+import turtle
+for i in range (18):
+  turtle.right(140)
+  turtle.left(120)
+  turtle.back(100)
+turtle.up ()
+turtle.goto(-50,50)
+turtle.down()
+turtle.forward(100)
+turtle.up ()
+turtle.goto(100,100)
+turtle.down()
+for i in range (18):
+  turtle.right(100)
+  turtle.left(60)
+  turtle.back(20)
+turtle.up ()
+turtle.goto(-100,100)
+turtle.down()
+for i in range (18):
+  turtle.right(100)
+  turtle.left(60)
+  turtle.back(20)
+
+turtle.up()
+turtle.goto(-300,50)
+turtle.down()
+turtle.right(90)
+turtle.forward(300)
+turtle.up()
+turtle.goto(-355,110)
+turtle.down()
+for i in range (18):
+  turtle.right(60)
+  turtle.left(40)
+  turtle.back(20)
